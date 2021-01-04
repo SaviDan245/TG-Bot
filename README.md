@@ -5,3 +5,5 @@ My first telegram bot. Its purpose is to give recommendations in the field of ci
 
 ## How to use it?
 The telegram bot isn't working at this point.
+
+## Solution description
